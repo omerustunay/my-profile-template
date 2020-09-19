@@ -2,7 +2,7 @@
 
 |||
 |---|---|
-|![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=LintangWisesa&layout=compact&hide_border=true&theme=vue)| 
+|![lintang top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=omerustunay&layout=compact&hide_border=true&theme=vue)| 
 <br>
 
 <a href="mailto: omerustunay@ymail.com">
